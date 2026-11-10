@@ -1,0 +1,9 @@
+[package]
+name = "devserver"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+async-std = "1.13.2"
+rxtx = { path = "../rxtx"}
+tokio = {version="1.54.1", features=["full"] }
