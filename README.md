@@ -1,2 +1,3 @@
 # rxtx
-Rust Networking Library
+Asynchronous Rust Networking Library
+
